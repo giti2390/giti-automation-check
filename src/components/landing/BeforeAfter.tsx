@@ -36,7 +36,7 @@ export function BeforeAfter() {
         </article>
 
         <div className="comparison-arrow" aria-hidden="true">
-          →
+          ←
         </div>
 
         <article className="comparison-card comparison-card--after">
