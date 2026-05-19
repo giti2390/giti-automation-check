@@ -1,5 +1,6 @@
 import { AboutSection } from "../components/landing/AboutSection";
 import { BeforeAfter } from "../components/landing/BeforeAfter";
+import { ContactSection } from "../components/landing/ContactSection";
 import { Footer } from "../components/landing/Footer";
 import { Hero } from "../components/landing/Hero";
 import { Quiz } from "../components/landing/Quiz";
@@ -21,6 +22,7 @@ export default function IndexRoute() {
       <BeforeAfter />
       <Quiz />
       <WhatsappCTA />
+      <ContactSection />
       <Footer />
     </>
   );
